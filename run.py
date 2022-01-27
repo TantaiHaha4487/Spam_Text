@@ -24,3 +24,5 @@ for i in range(0, int(many)):
     now = datetime.datetime.now()
     manynow += 1
     print("[" + str(now)  + "]" + " send " + msg + " " + str(manynow) + " times")
+print("Finish")
+print("Press Any Key For Close")
