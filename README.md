@@ -25,7 +25,7 @@ This program is a simple auto spammer that can send a message multiple times wit
 Spammer is provided as is under the MIT Licence (as stated below). It is built for educational purposes only. If you choose to use it otherwise, the developers will not be held responsible. Please, do not use it with evil intent.
 
 # Developer
-* @tantaihaha4487
+* [@tantaihaha4487](https://github.com/tantaihaha4487)
 
 # License
-This project is licensed under the MIT License. You can read the license here. [label](LICENSE)
+This project is licensed under the [MIT](LICENSE) License. You can read the license here.
