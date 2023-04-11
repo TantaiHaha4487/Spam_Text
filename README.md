@@ -7,10 +7,10 @@
 This program is a simple auto spammer that can send a message multiple times with a specified delay. It uses Python and the tkinter, customtkinter library for the GUI, and pyautogui for the automation.
 
 # Requirements
-* Python 3.xx
+* Python 3.xx [Download](https://www.python.org/downloads/)
 
 # Installation
-1. download the ZIP file. 
+1. download the ZIP file. [Download](https://github.com/tantaihaha4487/Python-Text-Spammer/releases/download/v3.0/main.zip)
 2. Run `Spammer.exe` to start the programe.
 
 # How to use
