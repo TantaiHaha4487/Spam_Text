@@ -21,6 +21,10 @@ This program is a simple auto spammer that can send a message multiple times wit
 5. Click in the chat you want to spam.
 6. Press the "Cancel" button to stop spamming.
 
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for information on how to contribute to this project.
+
 # Disclaimer
 Spammer is provided as is under the MIT Licence (as stated below). It is built for educational purposes only. If you choose to use it otherwise, the developers will not be held responsible. Please, do not use it with evil intent.
 
