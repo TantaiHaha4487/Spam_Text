@@ -6,9 +6,7 @@ try:
     import pyautogui
     import customtkinter
 except:
-    os.system('python3 -m pip install --upgrade Pillow')
-    os.system('pip install pyautogui')
-    os.system('pip install customtkinter')
+    os.system('pip install -r requirements.txt')
     print("package has been installed")
 
 
