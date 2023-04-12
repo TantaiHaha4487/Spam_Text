@@ -2,7 +2,7 @@
 
 # Python Text Spammer
 
-![image](https://github.com/tantaihaha4487/Spam_Text/blob/1e0e1575a20237aea0df5941302a3b5ee763f2c8/pics/example.png)
+![image](pics/example.png)
 
 This program is a simple auto spammer that can send a message multiple times with a specified delay. It uses Python and the tkinter, customtkinter library for the GUI, and pyautogui for the automation.
 
