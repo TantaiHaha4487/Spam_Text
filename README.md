@@ -1,4 +1,6 @@
-![image](https://github.com/tantaihaha4487/Python-Text-Spammer/blob/34f5463b4d810a58add873d4a8b0932aede73f9f/pics/Screenshot%202023-04-11%20174318.png)
+<div align="center">
+    <img src="https://github.com/tantaihaha4487/Python-Text-Spammer/blob/34f5463b4d810a58add873d4a8b0932aede73f9f/pics/Screenshot%202023-04-11%20174318.png">
+ </div>
 
 # Python Text Spammer
 
