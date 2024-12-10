@@ -16,7 +16,7 @@ This program is a simple auto spammer that can send a message multiple times wit
 2. Run `Spammer.exe` to start the programe.
 
 # How to use
-1. nter the message you want to spam in the "Message" field.
+1. Enter the message you want to spam in the "Message" field.
 2. Enter the number of times you want to send the message in the "Time" field.
 3. Enter the delay (in milliseconds) between each message in the "Delay" field.
 4. Press the "Start" button to begin spamming.
