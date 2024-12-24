@@ -176,32 +176,6 @@ class MainWindow(customtkinter.CTkFrame):
         self.switch.grid(row=5, column=2, pady=50)
 
 
-# Settings Window
-
-# class ToplevelWindow(customtkinter.CTkToplevel):
-#     def __init__(self, *args, **kwargs):
-#         super().__init__(*args, **kwargs)
-#         self.title("Settings")
-#         self.geometry("400x300")
-#         self.alwaysOnTopVar = tkinter.BooleanVar(value=False)
-#
-#         self.switch = customtkinter.CTkSwitch(self,
-#                                               text="Always on Top",
-#                                               variable=self.alwaysOnTopVar,
-#                                               onvalue=True, offvalue=False,
-#                                               command=self.on_always_on_top_switch,
-#                                               font=("Roboto", 20))
-#         self.switch.pack(pady=50)
-#     Bug
-#     def on_always_on_top_switch(self):
-#         """Toggle the always on
-#         top attribute of the Tk root window."""
-#         if self.alwaysOnTopVar.get():
-#             self.wm_attributes("-topmost", True)
-#         else:
-#             self.wm_attributes("-topmost", False)
-
-
 class App(customtkinter.CTk):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
@@ -213,16 +187,6 @@ class App(customtkinter.CTk):
 
         self.my_frame = MainWindow(master=self)
         self.my_frame.grid(row=0, column=0, padx=20, pady=20, sticky="nsew")
-
-    # open Setting function
-
-    #     self.toplevel_window = None
-    #
-    # def open_toplevel(self):
-    #     if self.toplevel_window is None or not self.toplevel_window.winfo_exists():
-    #         self.toplevel_window = ToplevelWindow(self)  # create window if its None or destroyed
-    #     else:
-    #         self.toplevel_window.focus()  # if window exists focus it
 
 
 if __name__ == "__main__":
